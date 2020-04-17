@@ -16,7 +16,7 @@ Uno para todos y todos para uno!!
 
 ### Ideas/Proyectos
 
-- [LibreU](): Universidad libre y colaborativa para subir material
-- [Learning in Quarentine](): A list of repos, web, content and utils for learning in this quarantine period.
+- [LibreU](https://github.com/proyecto-nemesis-team/libreu): Universidad libre y colaborativa para subir material
+- [Learning in Quarentine](https://github.com/proyecto-nemesis-team/Learning-in-Quarantine): A list of repos, web, content and utils for learning in this quarantine period.
 - Bloodbrother: App para encontrar dadores de sangre
 - App para detectar centros medicos cercanos por GPS
