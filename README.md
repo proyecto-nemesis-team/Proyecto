@@ -9,6 +9,9 @@ Si tenes un proyecto que lo dejaste de lado y necesitas ayuda, SUMATE!
 Es una referencia a Nemesis la diosa griega (llamada Ramnusia, “la diosa de Ramnunte” en el santuario que tiene en esta ciudad del Ática) es la diosa de la justicia retributiva, la solidaridad, la venganza, el equilibrio y la fortuna.
 Mas allá del origen, nos parecio indicado buscar una referente de la *solidaridad*.
 
+## Logo
+Agradecemos a [Marynart](https://www.instagram.com/marynarts03) por el logo que nos armo para el proyecto. 
+
 ## Como aportar? 
 Si ya tenés un proyecto, sumalo a la lista y agregalo a los repos oficiales. 
 Si te copas en la idea de alguno que ya existe, clona el repo, metele codigo y manda un PR. 
