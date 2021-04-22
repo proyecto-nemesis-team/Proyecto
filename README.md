@@ -1,5 +1,7 @@
 # Proyecto Nemesis
 
+<img src="https://github.com/proyecto-nemesis-team/Proyecto/blob/master/Recursos/1_lowQuality.png" width="300" heigth="300">
+
 ### Descripcion
 Esta idea se crea con el fin de aportar a la comunidad un granito de arena de solidaridad. Consideramos que cada uno de nosotros podemos aportar a un proyecto de manera colaborativa para cubrir alguna necesidad de la sociedad. 
 Si teneés alguna idea que consideras puede aportar a la causa, SUMATE!
